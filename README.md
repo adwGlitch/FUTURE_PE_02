@@ -124,6 +124,6 @@ To generate natural language copy and structured directories, several prompt eng
 ---
 
 ## ✍️ Author & License
-*   **Author:** `[Your Name / GitHub Username]`
+*   **Author:** [adwGlitch](https://github.com/adwGlitch)
 *   **Internship Cohort:** Prompt Engineering Intern - Future Interns
 *   **License:** This repository is open source and available under the [MIT License](file:///c:/Users/USER/OneDrive/Desktop/task2/FUTURE_PE_02/LICENSE).

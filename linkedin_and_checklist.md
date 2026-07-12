@@ -20,7 +20,7 @@ This file contains the promotional LinkedIn post announcing the completion of Ta
 > *   Designing visual storyboards with direct visual cues and camera angles.
 > *   Evaluating LLM outputs systematically to improve conversion potential.
 > 
-> Check out the full, portfolio-ready repository here: `[Link to GitHub Repository]`
+> Check out the full, portfolio-ready repository here: https://github.com/adwGlitch/FUTURE_PE_02
 > 
 > Really enjoying this hands-on prompt engineering and content marketing learning experience so far!
 > 
