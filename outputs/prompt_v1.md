@@ -1,0 +1,1 @@
+Write 10 UGC ad scripts for a reminder and productivity app called Reminderr. The app is for students, freelancers, and professionals to track deadlines and stay organized. The scripts should be about 30 to 60 seconds long.
